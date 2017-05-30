@@ -1,0 +1,21 @@
+{
+  "name": "wboc",
+  "version": "1.0.0",
+  "description": "Winners based on comments",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ChocoyoLabs/wboc",
+  "keywords": [
+    "Electron",
+    "Facebook",
+    "Chocoyo Labs",
+    "Comments"
+  ],
+  "author": "Paulo McNally <paulo.mcnally@chocoyolabs.com>",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
